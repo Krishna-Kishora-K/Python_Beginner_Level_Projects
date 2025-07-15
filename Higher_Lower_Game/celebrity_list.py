@@ -1,0 +1,22 @@
+celebrities = [
+    {"name": "Virat Kohli", "follower": 265, "field": "Cricket", "country": "India"},
+    {"name": "Priyanka Chopra", "follower": 91, "field": "Actress", "country": "India"},
+    {"name": "Shraddha Kapoor", "follower": 88, "field": "Actress", "country": "India"},
+    {"name": "MS Dhoni", "follower": 45, "field": "Cricket", "country": "India"},
+    {"name": "Alia Bhatt", "follower": 88, "field": "Actress", "country": "India"},
+    {"name": "Shah Rukh Khan", "follower": 44, "field": "Actor", "country": "India"},
+    {"name": "Sachin Tendulkar", "follower": 45, "field": "Cricket", "country": "India"},
+    {"name": "Deepika Padukone", "follower": 80, "field": "Actress", "country": "India"},
+    {"name": "Kriti Sanon", "follower": 58, "field": "Actress", "country": "India"},
+    {"name": "Ranveer Singh", "follower": 47, "field": "Actor", "country": "India"},
+    {"name": "Cristiano Ronaldo", "follower": 625, "field": "Football", "country": "Portugal"},
+    {"name": "Lionel Messi", "follower": 498, "field": "Football", "country": "Argentina"},
+    {"name": "Selena Gomez", "follower": 429, "field": "Singer/Actress", "country": "USA"},
+    {"name": "Kylie Jenner", "follower": 400, "field": "Model/Entrepreneur", "country": "USA"},
+    {"name": "Dwayne Johnson", "follower": 396, "field": "Actor/Wrestler", "country": "USA"},
+    {"name": "Kim Kardashian", "follower": 364, "field": "Media Personality", "country": "USA"},
+    {"name": "Taylor Swift", "follower": 283, "field": "Singer", "country": "USA"},
+    {"name": "Zendaya", "follower": 190, "field": "Actress", "country": "USA"},
+    {"name": "Justin Bieber", "follower": 291, "field": "Singer", "country": "Canada"},
+    {"name": "Billie Eilish", "follower": 119, "field": "Singer", "country": "USA"}
+]
